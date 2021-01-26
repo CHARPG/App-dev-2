@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Workoutulator",
+    "slug": "Workoutulator",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/BICEPLOGOo.png",
+    "splash": {
+      "image": "./assets/BICEPLOGOo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFFF"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#3F414E"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": ""
+  }
+}
